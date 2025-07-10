@@ -1,0 +1,25 @@
+./objects/fastmathfunctionsf16.o: \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Source\FastMathFunctions\FastMathFunctionsF16.c \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Source\FastMathFunctions\arm_vexp_f16.c \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\dsp\fast_math_functions_f16.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types_f16.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types.h \
+  ra\arm\CMSIS_6\CMSIS\Core\Include\cmsis_compiler.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  ra\arm\CMSIS_6\CMSIS\Core\Include\cmsis_armclang.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\arm_acle.h \
+  ra\arm\CMSIS_6\CMSIS\Core\Include\.\m-profile\cmsis_armclang_m.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\float.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\limits.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\arm_math_memory.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\dsp\none.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\arm_math_types.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\dsp\utils.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\dsp\fast_math_functions.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\dsp\basic_math_functions.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Source\FastMathFunctions\arm_vlog_f16.c \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Include\dsp\support_functions_f16.h \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Source\FastMathFunctions\arm_vinverse_f16.c \
+  C:\Users\Lenovo\AppData\Local\Arm\Packs\ARM\CMSIS-DSP\1.16.2\Source\FastMathFunctions\arm_atan2_f16.c
